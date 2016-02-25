@@ -5,7 +5,7 @@ They are tested in Drill 1.4
 
 To make Drill UDF work in Drill, please follow this blog:
 
-http://www.openkb.info/
+http://www.openkb.info/2016/02/how-to-create-custom-udf-for-apache.html
 
 ## a. How to build the jar
 
