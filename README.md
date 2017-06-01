@@ -32,3 +32,5 @@ mvn package
 +------------+
 1 row selected (2.839 seconds)
 ```
+
+Note: If your drill version is different than this example, please make sure to change versions in pom.xml when compiling.
